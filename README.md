@@ -11,7 +11,8 @@ Jeśli już tu trafiliście to postaram się skrócić lore wszystkiego co tu si
 3. Grafiki > doGry
 4. nieDoGry
 
-![Opis obrazu](adres_obrazu)
-
+![run](grafiki/doGry/ziutekAnimacja/RunD_1_2.gif)
+![run](grafiki/doGry/ziutekAnimacja/TakehitD1.gif)
+![run](grafiki/doGry/ziutekAnimacja/JunpD1.gif)
 
 
