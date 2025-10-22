@@ -21,11 +21,7 @@
 ![star](grafiki/nieDoGry/star.gif)
 ![star](grafiki/nieDoGry/star.gif)
 ![star](grafiki/nieDoGry/star.gif)
-![star](grafiki/nieDoGry/star.gif)
-![star](grafiki/nieDoGry/star.gif)
-![star](grafiki/nieDoGry/star.gif)
-![star](grafiki/nieDoGry/star.gif)
-![star](grafiki/nieDoGry/star.gif)
+
 
 ## Uwaga ☣
 
