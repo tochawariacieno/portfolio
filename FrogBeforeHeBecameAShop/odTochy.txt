@@ -1,0 +1,10 @@
+generalnie gra ma rozdzielczość na iphona ale na iphonie nie działa :(
+na androidzie sie da ale nie widać paska zdrowia
+ta gra wgl jest uboga w cokolwiek, jednakże jest to mój dorobek życia i powód dla którego nie nadaję sie na programiste.
+powstała na erasmusie w maladze gdzie pojechałam w czasie technikum.
+
+tam też na game jamie, po 2 tygodniowej nauce C# mieliśmy tydzień na stworzenie gry. 
+zajęłam sie wtedy assetami, game designem oraz audio. 
+nasz plan który realizowaliśmy we dwójke okazał się jednak zbyt ambitny jak na tydzień pracy, 
+stąd gra nigdy nie ujrzała światła dziennego a znalezienie plików gry troche mi zajeło.
+assety do gry z game jama znajdziecie w grafiki/doGry
